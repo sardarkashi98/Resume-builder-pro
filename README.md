@@ -19,7 +19,7 @@ This project allows users to create, customize, and download professional resume
 
 <p align="center">
   <img src="home.png" alt="Home Screen" width="45%" />
-  <img src="template.png" alt="Template Screen" width="45%" />
+  <img src="templates.png" alt="Template Screen" width="45%" />
 </p>
 
 ---
